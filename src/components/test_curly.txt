@@ -1,0 +1,2 @@
+﻿content with {curly} braces
+second line

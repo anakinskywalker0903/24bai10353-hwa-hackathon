@@ -1,0 +1,2 @@
+﻿whileHover={{ scale: 1.02 }}
+second line
